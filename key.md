@@ -2,10 +2,10 @@
 layout: default
 ---
 
-### KEY MANGAMENT
+### KEY MANAGAMENT
 
 * * *
-<!--KEY MANGAMENT-->
+<!--KEY MANAGAMENT-->
 
 ### Design of an Improved Secure Key Management Protocol in Multicast Communication
 
