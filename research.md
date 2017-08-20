@@ -21,7 +21,7 @@ This list is the projects under research grants which I currently participating 
 <br>
 ## Open Topics for Master/PhD Candidates
 
-Last update on 18/8/2018.
+Last update on 18/8/2017.
 
 * * *
 ### Simultaneous Exploration of Mapping and Routing on Hard Real-Time Embedded Networks-On-Chip
