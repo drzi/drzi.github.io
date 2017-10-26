@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Teaching Subjects
+description: Past and current teaching subjects (Engineering).
 ---
 
 ## Current Semester (2017/2018)

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Latent Semantic Hadith
+description: A New Multi-Relational Latent Semantic Analysis Model for Extracting Prophetic Hadith Concept.
 ---
 
 ### LATENT SEMANTIC HADITH

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Secure Key Management
+description: Design of an Improved Secure Key Management Protocol in Multicast Communication.
 ---
 
 ### KEY MANAGAMENT

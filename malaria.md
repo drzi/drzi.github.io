@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Malaria Segmentation
+description: Segmentation Of Malaria Parasites on Stained Blood Films.
 ---
 
 ### MALARIA SEGMENTATION

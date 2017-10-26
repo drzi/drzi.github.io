@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Quran Data Model
+description: A New Model for Content Understanding and Knowledge Dissemination of the Quran using Intelligent Data Model.
 ---
 
 <img src="images/intellidata.png" style="vertical-align:top" width="130"> 

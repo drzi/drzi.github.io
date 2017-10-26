@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Steganography
+description: Evolutionary Multi-Objective Optimization for Cover Audio Selection in Audio Steganography.
 ---
 
 <img src="images/stegano.png" style="vertical-align:top" width="200"> 

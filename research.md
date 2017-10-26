@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Master/PhD Open Topics
+description: Open topics opportunities for Master/PhD students.
 ---
 
 ## Projects

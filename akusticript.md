@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Acoustic Cryptanalyses
+description: Establishing New Acoustic Cryptanalyses of AES-Based Block Cipher Using Low-Bandwidth Acoustic Emanations and Quranic Maqamat.
 ---
 
 <img src="images/akusticript.png" style="vertical-align:top" width="100">

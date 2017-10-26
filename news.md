@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Latest News
+description: Contact Dr. Azizi for funding opportunities.
 ---
 
 ## Latest News

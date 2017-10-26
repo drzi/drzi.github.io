@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Cryptographic Key
+description: Securing Cryptographic Key Using Finger Vein Based Fuzzy Vault.
 ---
 
 ### KEY FINGER VEIN

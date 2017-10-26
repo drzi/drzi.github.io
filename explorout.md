@@ -1,5 +1,7 @@
 ---
 layout: default
+title: NoC Simultaneous Exploration
+description: Simultaneous Exploration of Mapping and Routing on Hard Real-Time Embedded Networks-On-Chip.
 ---
 
 <img src="images/explorout.png" style="vertical-align:top" width="110">

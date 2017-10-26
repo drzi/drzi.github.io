@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Fatwa INFAD
+description: Kajian Pembangunan Kandungan Projek Sistem Pengurusan Fatwa (FMS) INFAD.
 ---
 
 ### FATWA

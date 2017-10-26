@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Scholar Publications
+description: Papers published related to researches.
 ---
 
 ## Publication Lists

@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Qiraat Mobile
+description: The Design and Evaluation of An Interactive Qiraat Mobile Application.
 ---
 
 <img src="images/myqiraat.png" style="vertical-align:top" width="120"> 

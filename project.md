@@ -1,10 +1,12 @@
 ---
 layout: default
+title: Undegraduate Projects
+description: Undergraduate students project opportunities.
 ---
 
 ## Undegraduate Projects
 
-Last update on 19/9/2017.
+Last update on 26/10/2017.
 
 * * *
 ### MNS1: A New Constructive Algorithm for Mapping Hard Real-Time Embedded Networks-On-Chip
