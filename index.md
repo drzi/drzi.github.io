@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dr. Azizi
-description: Norazizi Sayuti (Azizi) is a senior lecturer at the Faculty of Engineering and Built Environment, Universiti Sains Islam Malaysia (USIM). His current research interests include Networks-on-Chip (NoC), embedded systems, real-time systems, design space exploration and optimization.
+title: Norazizi Sayuti
+description: Dr. Norazizi Sayuti (Azizi) is a senior lecturer at the Faculty of Engineering and Built Environment, Universiti Sains Islam Malaysia (USIM). His current research interests include Networks-on-Chip (NoC), embedded systems, real-time systems, design space exploration and optimization.
 tags: [Networks-on-Chip (NoC), Embedded Systems, Real-Time Systems, Design Space Exploration, Optimization]
 ---
 <div>
