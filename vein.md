@@ -17,7 +17,7 @@ Biometric finger vein has been widely used for authentication as one of its adva
 | ---- | --- |
 | **Status** | Finished |
 | **Lead** | Kamaruzzaman Seman |
-| **Members** | **Azizi Sayuti**, Wan Nourul Akmal Ab Aziz |
+| **Members** | **Norazizi Sayuti**, Wan Nourul Akmal Ab Aziz |
 | **Funded By** | USIM |
 | **Start Date** | 03/10/2011 |
 | **End Date** | 28/06/2013 |

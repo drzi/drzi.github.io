@@ -19,7 +19,7 @@ This data model will be able to help the understanding on the meaning of the Qur
 | ---- | --- |
 | **Status** | Current |
 | **Lead** | Rosalina Abd Salam |
-| **Members** | Zurinahni Bt Zainol, **Azizi Sayuti**, Zulkifly Mohd Zaki,  Muhammad Widus Sempo, Wan Nur Rahini Aznie, Akhiruddin, Farida Hazwani Mohd Ridzuan, Hishomudin Ahmad, Hazleena Baharun Lubna Abd Rahman,  Robiatul Adawiyah Mohd, Mohamed Akhiruddin Ibrahim, Malki Ahmad Nasir, Munjid Mustafa Bahjat, Sulhah Ramli, Mohd Faizal Kasmani, Sofia Hayati Yusoff, Rozita Abdullah, Norzulaili Mohd Ghazali, Nurul Asiah Fasehah Muhamad, Noornajihan Jaafar, Noor Azma Mohamad Khassim, Noorhayati Hashim |
+| **Members** | Zurinahni Bt Zainol, **Norazizi Sayuti**, Zulkifly Mohd Zaki,  Muhammad Widus Sempo, Wan Nur Rahini Aznie, Akhiruddin, Farida Hazwani Mohd Ridzuan, Hishomudin Ahmad, Hazleena Baharun Lubna Abd Rahman,  Robiatul Adawiyah Mohd, Mohamed Akhiruddin Ibrahim, Malki Ahmad Nasir, Munjid Mustafa Bahjat, Sulhah Ramli, Mohd Faizal Kasmani, Sofia Hayati Yusoff, Rozita Abdullah, Norzulaili Mohd Ghazali, Nurul Asiah Fasehah Muhamad, Noornajihan Jaafar, Noor Azma Mohamad Khassim, Noorhayati Hashim |
 | **Funded By** | MOHE (TRGS) |
 | **Start Date** | 4/1/2016 |
 | **End Date** | 4/1/2019 |

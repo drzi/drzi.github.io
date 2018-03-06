@@ -17,7 +17,7 @@ The security of data transfer is an ever-growing challenge because old methods c
 | ---- | --- |
 | **Status** | Current |
 | **Lead** | Farida Hazwani Mohd Ridzuan |
-| **Members** | **Azizi Sayuti**, Nurlida Basir, Madihah Mohd Saudi, Azni Haslizan, Sakinah Ali Pitchay |
+| **Members** | **Norazizi Sayuti**, Nurlida Basir, Madihah Mohd Saudi, Azni Haslizan, Sakinah Ali Pitchay |
 | **Funded By** | MOHE (FRGS) |
 | **Start Date** | 1/8/2017 |
 | **End Date** | 1/8/2019 |

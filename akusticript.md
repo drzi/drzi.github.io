@@ -20,7 +20,7 @@ This project aim to develop a new model of Ontology of Maqamat of the Quran base
 | ---- | --- |
 | **Status** | Current |
 | **Lead** | Janatul Islah |
-| **Members** | Ahmad Faizal Mohd Zain, Abu Bakar Hasan, Kamaruzzaman Seman, Azni Haslizan Ab. Halim, **Azizi Sayuti**, Adnan Mohamed Yusoff, Robiatul Adawiyah, Hishomudin Ahmad, Ahmad Sanusi Azmi, Mohd Zaini Zakaria, Wan Azura Wan Ahmad |
+| **Members** | Ahmad Faizal Mohd Zain, Abu Bakar Hasan, Kamaruzzaman Seman, Azni Haslizan Ab. Halim, **Norazizi Sayuti**, Adnan Mohamed Yusoff, Robiatul Adawiyah, Hishomudin Ahmad, Ahmad Sanusi Azmi, Mohd Zaini Zakaria, Wan Azura Wan Ahmad |
 | **Funded By** | MOHE (TRGS) |
 | **Start Date** | 4/1/2016 |
 | **End Date** | 4/1/2019 |

@@ -18,7 +18,7 @@ will enhance learning experiences of the students.
 | | |
 | ---- | --- |
 | **Status** | Current |
-| **Lead** | **Azizi Sayuti** |
+| **Lead** | **Norazizi Sayuti** |
 | **Members** | Hanifah Abd Hamid, Azni Haslizan, Azreena Abu Bakar |
 | **Funded By** | USIM |
 | **Start Date** | 01/09/2009 |

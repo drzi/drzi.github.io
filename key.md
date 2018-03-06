@@ -17,7 +17,7 @@ With the emerging of Internet, multicast communication adapts very well in large
 | ---- | --- |
 | **Status** | Finished |
 | **Lead** | Kamaruzzaman Seman |
-| **Members** | **Azizi Sayuti**, Norita Mohd Nawawi, Nur Alyani Jusoh |
+| **Members** | **Norazizi Sayuti**, Norita Mohd Nawawi, Nur Alyani Jusoh |
 | **Funded By** | USIM |
 | **Start Date** | 07/02/2011 |
 | **End Date** | 18/12/2015 |

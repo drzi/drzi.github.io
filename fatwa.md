@@ -17,7 +17,7 @@ Sistem Pengurusan Fatwa INFAD (e-infad) adalah sistem yang menghimpunkan fatwa d
 | ---- | --- |
 | **Status** | Finished |
 | **Lead** | Yunus Abd. Aziz |
-| **Members** | Azman Ab Rahman, Najib Abdullah, Lukmanul Hakim Haji Hanafi, **Azizi Sayuti**, Munir Zihni Hassan, Irwan Mohd Subri |
+| **Members** | Azman Ab Rahman, Najib Abdullah, Lukmanul Hakim Haji Hanafi, **Norazizi Sayuti**, Munir Zihni Hassan, Irwan Mohd Subri |
 | **Funded By** | MOHE (FRGS) |
 | **Start Date** | 01/09/2009 |
 | **End Date** | 14/10/2010 |

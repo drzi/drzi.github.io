@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Dr. Azizi
-description: Are you interested in Networks-on-Chip (NoC), Real-Time Systems, Design Space Exploration, resource allocation or optimisation? Read the Research section.
-tags: [Networks-on-Chip (NoC), Real-Time Systems, Multiprocessors, Design Space Exploration, resource allocation, optimisation]
+description: Norazizi Sayuti (Azizi) is a senior lecturer at the Faculty of Engineering and Built Environment, Universiti Sains Islam Malaysia (USIM). His current research interests include Networks-on-Chip (NoC), embedded systems, real-time systems, design space exploration and optimization.
+tags: [Networks-on-Chip (NoC), Embedded Systems, Real-Time Systems, Design Space Exploration, Optimization]
 ---
 <div>
     <dl>
         <dt><img src="images/me.jpg" width="180" align="left"></dt>
         <dd> 
 			<div style="white-space: pre-wrap; text-align: right">
-			Office: (+606) 798 6569 &#10;Email: <img src="images/email.jpg" style="vertical-align:top">&#10;<a href="http://fkab.usim.edu.my">Faculty of Engineering</a>&#10;<a href="http://usim.edu.my">Universiti Sains Islam Malaysia</a>
+			Norazizi Sayuti &#10;Office: (+606) 798 6569 &#10;Email: <img src="images/email.jpg" style="vertical-align:top">&#10;<a href="http://fkab.usim.edu.my">Faculty of Engineering</a>&#10;<a href="http://usim.edu.my">Universiti Sains Islam Malaysia</a>
 			</div>
 		</dd>
     </dl>     	
@@ -17,6 +17,6 @@ tags: [Networks-on-Chip (NoC), Real-Time Systems, Multiprocessors, Design Space 
 
 <p style="clear: both;"></p>
 			
-Azizi is a senior lecturer at the [Faculty of Engineering and Built Environment](http://fkab.usim.edu.my), [Universiti Sains Islam Malaysia (USIM)](http://usim.edu.my). His current research interests include Networks-on-Chip (NoC), Real-Time systems, Design Space Exploration, embedded systems, resource allocation, optimisation, data analytics and IoT, but he always keen to discuss about any open problems with potential Master or PhD candidates.
+Azizi is a senior lecturer at the [Faculty of Engineering and Built Environment](http://fkab.usim.edu.my), [Universiti Sains Islam Malaysia (USIM)](http://usim.edu.my). His current research interests include Networks-on-Chip (NoC), embedded systems, real-time systems, Design Space Exploration, optimisation but he always keen to discuss about any open problems with potential Master or PhD candidates.
 
 He graduated in Electronic Engineering from the [Shibaura Institute of Technology (SIT)](http://www.shibaura-it.ac.jp/en), Japan in 2001. In 2004 he obtained a MSc in Computer Science from the [Universiti of Teknologi Malaysia (UTM)](http://kl.utm.my/), Malaysia. He completed his PhD research on [Design Space Exploration of Real-Time Networks-on-Chip](http://etheses.whiterose.ac.uk/8963/) at the [University of York](http://york.ac.uk) in 2015. He joined Universiti Sains Islam Malaysia (USIM) in 2009 as a Lecturer. In 2016 he was promoted to Senior Lecturer. Since 2017 he holds a position as the Head of Electronic Engineering Department at the Faculty of Engineering and Built Environment, Universiti Sains Islam Malaysia.

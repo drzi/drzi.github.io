@@ -17,7 +17,7 @@ Hadith is the second source of Islamic teachings after the Quran. It is a collec
 | ---- | --- |
 | **Status** | Current |
 | **Lead** | Hishomudin Bin Ahmad |
-| **Members** | Norzulaili Mohd Ghazali, Robiatul Adawiyah Mohd, **Azizi Sayuti**, Rosalina Abdul Salam, Zainal Abidin Hajib, Noor Azma Mohamad Khassim, Nik Farhan Mustapha |
+| **Members** | Norzulaili Mohd Ghazali, Robiatul Adawiyah Mohd, **Norazizi Sayuti**, Rosalina Abdul Salam, Zainal Abidin Hajib, Noor Azma Mohamad Khassim, Nik Farhan Mustapha |
 | **Funded By** | MOHE (FRGS) |
 | **Start Date** | 01/12/2014 |
 | **End Date** | 01/12/2017 |

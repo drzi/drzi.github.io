@@ -8,6 +8,7 @@ description: Open topics opportunities for Master/PhD students.
 
 This list is the projects under research grants which I currently participating in, as well as past projects that has been completed.
 
+- `Current` \| [SDSE](sdse)
 - `Current` \| [EXPLORER](explorout)
 - `Current` \| [STEGANO](stegano)
 - `Current` \| [Q-AKUSTICRIPT](akusticript)

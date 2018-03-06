@@ -17,7 +17,7 @@ Malaria is a severe transferable sickness caused by blood parasite called Plasmo
 | ---- | --- |
 | **Status** | Finished |
 | **Lead** | Rosalina Abdul Salam |
-| **Members** | **Azizi Sayuti**, R Shamilah R. Hisham, Tuan Zalizam Tuan Muda, Norita Mohd Nawawi |
+| **Members** | **Norazizi Sayuti**, R Shamilah R. Hisham, Tuan Zalizam Tuan Muda, Norita Mohd Nawawi |
 | **Funded By** | USIM |
 | **Start Date** | 03/10/2011 |
 | **End Date** | 03/07/2015 |

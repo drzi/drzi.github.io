@@ -17,7 +17,7 @@ The process of learning Qiraat is challenging. Each Qiraat type has their own ru
 | ---- | --- |
 | **Status** | Current |
 | **Lead** | Zulkifly Mohd Zaki |
-| **Members** | **Azizi Sayuti**, Khairul Annuar Mohamad, Muhammad Arif Musa |
+| **Members** | **Norazizi Sayuti**, Khairul Annuar Mohamad, Muhammad Arif Musa |
 | **Funded By** | USIM |
 | **Start Date** | 14/12/2015 |
 | **End Date** | 14/12/2017 |

@@ -18,7 +18,7 @@ Since NoC is capable of implementing different mapping and routing schemes, the 
 | | |
 | ---- | --- |
 | **Status** | Current |
-| **Lead** | **Azizi Sayuti** |
+| **Lead** | **Norazizi Sayuti** |
 | **Members** | Farida Hazwani,  Zul Hilmi |
 | **Funded By** | USIM |
 | **Start Date** | 1/5/2016 |
@@ -26,5 +26,5 @@ Since NoC is capable of implementing different mapping and routing schemes, the 
 
 
 <p style="text-align: right;">
-<a href="provision">back</a> | <a href="stegano">next</a> 
+<a href="sdse">back</a> | <a href="stegano">next</a> 
 </p>
