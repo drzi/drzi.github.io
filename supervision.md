@@ -28,8 +28,7 @@ description: Previous and current students supervision.
 | ---- | --- |
 | Filzah Syairah Hussin | BEng  |
 | Nur A'ida Najihah Ismail Najib | BEng  |
-| Nur Afiqah Razman | BEng  |
-| Nurul Athirah Muhammad Zani| BEng  |
+
 
 **_Bachelor students interested in doing final year project with me kindly refer to_ [_Undergraduate Projects_](project).
 
@@ -39,6 +38,8 @@ description: Previous and current students supervision.
 
 | Author           | Titles            | Program | Year |
 |:-----------------|:------------------|:------------------|:------------------|
+| Nur Afiqah Razman | Wireless In-Home human Presence Detection System for Blind Household | BEng  | 2018 | 
+| Nurul Athirah Muhammad Zani | Cost-Effective and Efficient Flood Detection System | BEng | 2018 |
 | Nurhaida Dayana Md Jasman | Simultaneous Exploration of Mapping and Routing on Hard Real-Time Embedded Networks-On-Chip | BEng  | 2017 |
 | Noor Celina Noor Alam | A New Constructive Algorithm (NCA) for Mapping Hard Real-Time Embedded Networks-On-Chip | BEng  | 2017 |
 | Nor Amalia Samsuddin | A Comparative Study on Particle Swarm Optimisation (PSO) and Genetic Algorithms (GAs) in Finding Mapping for Networks-On-Chip Based Hard Real-Time Systems  | BEng  | 2017 |
