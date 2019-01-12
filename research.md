@@ -9,17 +9,17 @@ description: Open topics opportunities for Master/PhD students.
 This list is the projects under research grants which I currently participating in, as well as past projects that has been completed.
 
 - `Current` \| [SDSE](sdse)
-- `Current` \| [EXPLORER](explorout)
 - `Current` \| [STEGANO](stegano)
 - `Current` \| [Q-AKUSTICRIPT](akusticript)
 - `Current` \| [INTELLIDATA](intelligentdata)
 - `Current` \| [MYQIRAAT](myqiraat)
 - `Current` \| [LATENT SEMANTIC HADITH](latent)
-- `Finished` \| [FATWA](fatwa)
-- `Finished` \| [KEY MANAGEMENT](key)
-- `Finished` \| [MALARIA SEGMENTATION](malaria)
-- `Finished` \| [KEY FINGER VAIN](vein)
-- `Finished` \| [ICT PROVISION](provision)
+- `Completed` \| [EXPLORER](explorout)
+- `Completed` \| [FATWA](fatwa)
+- `Completed` \| [KEY MANAGEMENT](key)
+- `Completed` \| [MALARIA SEGMENTATION](malaria)
+- `Completed` \| [KEY FINGER VAIN](vein)
+- `Completed` \| [ICT PROVISION](provision)
 
 <br>
 ## Open Topics for Master/PhD Candidates

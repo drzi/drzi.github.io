@@ -16,7 +16,9 @@ description: Previous and current students supervision.
 | Student |  Level |
 | ---- | --- |
 | Muhammad Fahim Roslan | PhD |
+| Farah Hanim Abd Jabar | PhD |
 | Asma Salsabila Muhmad Rusli | Master |
+| Muhammad Harith Noor Azam | Master |
 
 **_PhD and Master candidates interested in doing research kindly visit_ [_Open Research Projects_](research). _If you're looking for a sponsorhip, limited funding maybe available. Visit_ [_here for funding availability_](news).
 
@@ -26,8 +28,9 @@ description: Previous and current students supervision.
 
 | Student | Program  |
 | ---- | --- |
-| Filzah Syairah Hussin | BEng  |
-| Nur A'ida Najihah Ismail Najib | BEng  |
+| Filzah Syairah Hussin | BEng |
+| Nur A'ida Najihah Ismail Najib | BEng |
+| Mohamad Bukhari Berhanuldin | BEng |
 
 
 **_Bachelor students interested in doing final year project with me kindly refer to_ [_Undergraduate Projects_](project).
