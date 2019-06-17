@@ -4,13 +4,6 @@ title: Research Students
 description: Previous and current students supervision.
 ---
 
-## Current Posdoctoral Researcher
-
-| Researcher |
-| ---- |
-| Dr. Siti Zubaidah Aziz |
-
-
 ## Current Research Students
 
 | Student |  Level |
@@ -34,6 +27,14 @@ description: Previous and current students supervision.
 
 
 **_Bachelor students interested in doing final year project with me kindly refer to_ [_Undergraduate Projects_](project).
+
+<br>
+
+## Former Posdoctoral Researcher
+
+| Researcher |
+| ---- |
+| Dr. Siti Zubaidah Aziz |
 
 <br>
 
