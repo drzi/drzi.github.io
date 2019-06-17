@@ -10,7 +10,8 @@ tags: [Embedded Systems, Cyber-Physical Systems, Real-Time Computing, Networks-O
         <dt><img src="images/me.jpg" width="170" align="left"></dt>
         <dd> 
 			<div style="white-space: pre-wrap; text-align: right">
-			<b>Dr. Norazizi Sayuti</b><a href="https://orcid.org/0000-0002-1926-8491"><img src="images/orcid.gif"></a><span id='badgeCont337311' style='width:19px'><script src='https://labs.researcherid.com/mashlets?el=badgeCont337311&mashlet=badge&showTitle=false&className=a&rid=A-6673-2019&size=small'></script></span> &#10;P.Tech, SMIEEE &#10;Office: (+60)06-797 8612 &#10;Email:<img src="images/email.jpg" align="right"> &#10;FKAB, RIMC &#10;Universiti Sains Islam Malaysia
+			<b>Dr. Norazizi Sayuti</b><a href="https://orcid.org/0000-0002-1926-8491"><img src="images/orcid.gif"></a>
+			&#10;P.Tech, SMIEEE &#10;Office: (+60)06-797 8612 &#10;Email:<img src="images/email.jpg" align="right"> &#10;FKAB, RIMC &#10;Universiti Sains Islam Malaysia
 			<img src="images/vcard.png" width="60" align="right">
 			</div>
 		</dd>
