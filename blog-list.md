@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: default
+title: Blog
+description: Anything about technology.
 ---
 
 <h3>Technology</h3>
@@ -9,11 +11,5 @@ layout: post
 	<li><a href="/2017/09/19/github-&-jekyll,-websites-made-easy.html" rel="noopener">2017-09-19 Github & Jekyll, Websites Made Easy</a></li>
 </ul>
 
-<h3>Archery</h3>
-<ul>
-	<li><a href="/2023/07/08/Community-Program-Barebow-Archery-Workshop.html" rel="noopener">2023-08-07 Community Program: Barebow Archery Workshop </a></li>
-
-	<li><a href="/2023/07/08/Community-Program-Archery-Fest-Gallery-Walk,-Fun-Shoot-&-Archery-Workshop.html" rel="noopener">2023-08-07 Community Program: Archery Fest - Gallery Walk, Fun Shoot, Archery Workshop</a></li>
-	
-	<li><a href="/2023/01/14/Community-Program-Are-You-the-Next-Archer.html" rel="noopener">2023-01-14 Community Program: Are You the Next Archer</a></li>
-</ul>
+<p style="text-align: right;">
+<a href="community">back</a> | <a href="news">next</a> 

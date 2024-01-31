@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Master/PhD Open Topics
+title: Research
 description: Open topics opportunities for Master/PhD students.
 ---
 

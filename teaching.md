@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching Subjects
+title: Teaching
 description: Past and current teaching subjects (Engineering).
 ---
 
@@ -22,5 +22,5 @@ BEng (Electronic Engineering):
 *   KEH1123 Engineering Mathematics I
 
 <p style="text-align: right;">
-<a href="supervision">back</a> | <a href="./news">next</a> 
+<a href="supervision">back</a> | <a href="community">next</a> 
 </p>

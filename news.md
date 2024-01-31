@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latest News
+title: News
 description: Contact Dr. Azizi for funding opportunities.
 ---
 
@@ -35,5 +35,5 @@ This research requires you to meet the following requirements:
 *   Proactive and able to work independently
 
 <p style="text-align: right;">
-<a href="teaching">back</a> | <a href="./">next</a> 
+<a href="blog-list">back</a> | <a href="./">next</a> 
 </p>

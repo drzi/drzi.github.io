@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scholar Publications
+title: Publication
 description: Papers published related to researches.
 ---
 

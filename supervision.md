@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Students
+title: Supervision
 description: Previous and current students supervision.
 ---
 
