@@ -13,7 +13,7 @@ Networks-On-Chip (NoC) is seen as a new network paradigm for addressing the limi
 
 
 <br>
-## Undegraduate Projects
+## Undergraduate Projects
 
 Kindly [visit here](project) for open final year projects. 
 
