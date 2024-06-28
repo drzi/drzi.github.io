@@ -4,7 +4,7 @@ title: Undegraduate Projects
 description: Undergraduate students project opportunities.
 ---
 
-## Undegraduate Projects
+## Undergraduate Projects
 
 * * *
 ### A Comparison Between Different Metaheuristics for Efficient Networks-On-Chip Exploration

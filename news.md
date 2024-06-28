@@ -9,6 +9,11 @@ Last update on 23/06/2024.
 
 Scholarships are available for international candidates to continue postgraduate study in Malaysia. If you're interested in the <a href="research">Research Topics</a>, drop me an email at (<img src="images/email.jpg" style="vertical-align:top">) attached with your CV and a cover letter. 
 
+* * *
+### MALAYSIA INTERNATIONAL SCHOLARSHIP (MIS)
+
+https://biasiswa.mohe.gov.my/MyBrainSc/
+
 
 * * *
 ### MALAYSIA INTERNATIONAL SCHOLARSHIP (MIS)
@@ -19,7 +24,7 @@ Interested international graduates with outstanding academic and co-curricular b
 
 
 * * *
-### THE MALAYSIAN TECHNICAL COOPERATION PROGRAMME (MTCP)
+### MALAYSIAN TECHNICAL COOPERATION PROGRAMME (MTCP)
 
 The MTCP Scholarship is sponsored by the Malaysian government and dedicated to international students from developing countries to pursue their postgraduate studies in Malaysia, whilst at the same time acquire the necessary knowledge and skills that could contribute to the development of their country. The duration of the award is between 24 to 36 months for Master's Degree Programme.
 
