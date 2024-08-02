@@ -5,15 +5,20 @@ description: Contact Dr. Azizi for funding opportunities.
 ---
 
 ## Latest News
-Last update on 23/06/2024.
+Last update on 02/08/2024.
 
-Scholarships are available for international candidates to continue postgraduate study in Malaysia. If you're interested in the <a href="research">Research Topics</a>, drop me an email at (<img src="images/email.jpg" style="vertical-align:top">) attached with your CV and a cover letter. 
+Scholarships are available for local and international candidates to continue postgraduate study in Malaysia. If you're interested in the <a href="research">Research Topics</a>, drop me an email at (<img src="images/email.jpg" style="vertical-align:top">) attached with your CV and a cover letter. 
 
 * * *
-### MALAYSIA INTERNATIONAL SCHOLARSHIP (MIS)
+* * *
+### MyBRAIN 2.0
 
-https://biasiswa.mohe.gov.my/MyBrainSc/
+Program MyBRAIN 2.0 ditawarkan kepada orang awam yang tidak bekerja atau tidak berpendapatan tetap, dan pensyarah-pensyarah di Institusi Pendidikan Tinggi Swasta (IPTS) terpilih untuk melanjutkan pengajian di peringkat Ijazah Sarjana dan Ijazah Kedoktoran (PhD) di Institusi Pendidikan Tinggi (IPT) dalam negara. Pemilihan bidang adalah terdiri daripada bidang Sains, Teknologi, Kejuruteraan, Matematik (STEM) serta bidang Sains Sosial dan Sastera Ikhtisas. Untuk keterangan lanjut sila layari, 
 
+<a href="https://biasiswa.mohe.gov.my/MyBrain2/">MyBRAIN 2.0.</a>
+
+
+<a href="https://biasiswa.mohe.gov.my/MyBrain2/"><img src="images/mybrain2-2.jpeg" width="500" height="550" align="center"></a>
 
 * * *
 ### MALAYSIA INTERNATIONAL SCHOLARSHIP (MIS)
