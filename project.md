@@ -7,9 +7,24 @@ description: Undergraduate students project opportunities.
 ## Undergraduate Projects
 
 * * *
-### A Comparison Between Different Metaheuristics for Efficient Networks-On-Chip Exploration
+### A System to Monitor and Count Vehicles Using Video Feeds from Traffic Cameras
+Implement computer vision models optimized by OpenVINO to detect and count vehicles, identify traffic congestion, and adjust traffic signals, or calculate Co2 emissions.
 
-Genetic Algorithms (GAs) have been proved as an efficient way in finding schedulable mapping based on single and multi-objective optimisation for hard real-time embedded NoC. Other metaheuristics are available but yet to be studied in detail of their capability in finding the schedulable mapping for the systems. Although the optimal mapping is hard to find by the metaheuristics due to the arbitrary generation of population, the optimisation time can be a determined factor for selection of the best algorithm. A comparison study will be conducted between the GAs and the other metaheuristics to identify which metaheuristic has the fastest convergence. 
+* * *
+### Wildlife Monitoring System in Natural Habitats
+Implement animal detection and classification models optimized with OpenVINO to process images and videos captured by camera traps, providing insights into wildlife behavior and population.
+
+* * *
+### Develop a Real-time Object Detection System Using Convolutional Neural Networks (CNNs)
+Use hls4ml to convert a pre-trained CNN model into HLS code, and deploy it on an FPGA to achieve high-speed object detection with low latency.
+
+* * *
+### Create a Speech Recognition System for real-time applications.
+Convert a recurrent neural network (RNN) or long short-term memory (LSTM) model into HLS code using hls4ml, and implement it on an FPGA to process audio signals in real-time.
+
+* * *
+### OPEN FOR DISCUSSION
+...or discuss topic of your choice.
 
 <p style="text-align: right;">
 <a href="supervision">back</a> | <a href="research">next</a> 

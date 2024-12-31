@@ -20,7 +20,7 @@ tags: [Real-Time Embedded Systems, Networks-On-Chip, Design Space Exploration, O
 <p style="clear: both;"></p>
 
 <p style="text-align: justify;">
-Norazizi Sayuti is an Associate Professor at the <a href="https://fkab.usim.edu.my">Faculty of Engineering and Built Environment (FKAB)</a>, <a href="https://usim.edu.my">Universiti Sains Islam Malaysia (USIM)</a> and a senior member of IEEE. His current research interests include Real-Time Embedded Systems, Networks-On-Chip, Design Space Exploration and Optimization, but he always keen to discuss about any open problems with potential Master or PhD candidates.
+Norazizi Sayuti is an Associate Professor at the <a href="https://fkab.usim.edu.my">Faculty of Engineering and Built Environment (FKAB)</a>, <a href="https://usim.edu.my">Universiti Sains Islam Malaysia (USIM)</a> and a senior member of IEEE. His current research interests include Real-Time Embedded Systems, Networks-On-Chip, Design Space Exploration, Evolutionary Optimization, Embedded Artifical Intelligence and Scheduling, but he always keen to discuss about any open problems with potential Master or PhD candidates.
 </p>
 
 <p style="text-align: justify;">

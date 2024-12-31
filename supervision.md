@@ -47,6 +47,7 @@ description: Previous and current students supervision.
 
 | Author           | Titles            | Program | Year |
 |:-----------------|:------------------|:------------------|:------------------|				
+| Burhanuddin Sakirun |  Self Diagnosis Algorithms: Leveraging Machine Learning for Personalized Healthcare Solutions | BEng  | 2024 | 
 | Anis Rashidah  Aminurrashid | Convolutional Neural Network (CNN) Based Plastic Detection For Remotely Operated Underwater Vehicle (ROV) | BEng  | 2023 | 
 | Nurul Syamsina  Basarulhisham | Student Attendance and Engagement Detection System Using Machine Learning Optimised on Amd Ryzen 7 | BEng  | 2022 | 
 | Nuraidah  Norahim | Covid-19 Body Temperature Tracker: A Mobile Application to Ease Movement Control Order | BEng  | 2021 | 
@@ -55,8 +56,8 @@ description: Previous and current students supervision.
 | Nur Hannan Ajwa  Mohd Fauzan | Wireless In-Home human Presence Detection System for Blind Household | BEng  | 2020 | 
 | Muhammad Nashran  Che Nasir | Wireless In-Home human Presence Detection System for Blind Household | BEng  | 2020 | 
 | Nur Hidayah Bt Ahmad | Optimization of Electrical Conductivity Level in The Hydroponic Reservoir Using 3d Water Pumps | BEng  | 2020 | 
-| Mohamad Bukhari  Berhanuldin | Study of Performances Of Antenna Design For Ultra-Wideband Applications | BEng  | 2019 | 
-| Filzah Syairah  Hussin | Single-Objective Task Mapping \& Network Routing Optimization On 2d Networks-On-Chip | BEng  | 2019 | 
+| Mohamad Bukhari Berhanuldin | Study of Performances Of Antenna Design For Ultra-Wideband Applications | BEng  | 2019 | 
+| Filzah Syairah Hussin | Single-Objective Task Mapping & Network Routing Optimization On 2d Networks-On-Chip | BEng  | 2019 |
 | NurA’ida Najihah  Ismail Najib | Multi-Objective Task Mapping and Network Routing Optimisation to Minimize Power Dissipation on 2D Networks-On-Chip | BEng  | 2019 | 
 | Nur Afiqah Razman | Wireless In-Home human Presence Detection System for Blind Household | BEng  | 2018 | 
 | Nurul Athirah Muhammad Zani | Cost-Effective and Efficient Flood Detection System | BEng | 2018 |

@@ -6,6 +6,8 @@ description: Community Engagements and Services.
 
 <h3>Community Program (Archery)</h3>
 <ul>
+	<li><a href="/2024/06/22/Community-Program-Ready-Set-and-Shoot.html" rel="noopener">2024-06-22 Community Program: Ready Set and Shoot</a></li>
+	
 	<li><a href="/2023/07/08/Community-Program-Barebow-Archery-Workshop.html" rel="noopener">2023-08-07 Community Program: Barebow Archery Workshop </a></li>
 
 	<li><a href="/2023/07/08/Community-Program-Archery-Fest-Gallery-Walk,-Fun-Shoot-&-Archery-Workshop.html" rel="noopener">2023-08-07 Community Program: Archery Fest - Gallery Walk, Fun Shoot, Archery Workshop</a></li>

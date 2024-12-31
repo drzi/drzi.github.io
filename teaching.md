@@ -4,23 +4,23 @@ title: Teaching
 description: Past and current teaching subjects (Engineering).
 ---
 
-## Current Semester (2023/2024)
-
-Bachelor of Electronic Engineering with Honours 
-*   KEE3633 IC Circuit 
+## Current Semester
+* * *
+### Bachelor of Electronic Engineering with Honours 
+*   KEE3633 Intgrated Circuit Design
 *	KEK3573 Computer Architecture and Organization
 
-Bachelor of Electrical Engineering with Honours
+### Bachelor of Electrical Engineering with Honours
 *	KEH2412 Engineering Statistics
 *   KEK1113 Engineering Programming 
 
-All Programs:
+### All Programs:
 *	CSD1032 Archery
 
 <br>
 ## Past Semester 
-	
-Bachelor of Electronic Engineering with Honours
+* * *
+### Bachelor of Electronic Engineering with Honours
 *   KEE4843 Digital Signal Processing
 *   KEE3513 Control Theory
 *   KEZ3995 Industrial Training

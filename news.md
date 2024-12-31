@@ -5,11 +5,11 @@ description: Contact Dr. Azizi for funding opportunities.
 ---
 
 ## Latest News
+* * *
 Last update on 02/08/2024.
 
 Scholarships are available for local and international candidates to continue postgraduate study in Malaysia. If you're interested in the <a href="research">Research Topics</a>, drop me an email at (<img src="images/email.jpg" style="vertical-align:top">) attached with your CV and a cover letter. 
 
-* * *
 * * *
 ### MyBRAIN 2.0
 
