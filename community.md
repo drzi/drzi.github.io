@@ -8,7 +8,7 @@ description: Community Engagements and Services.
 <ul>
 	<li><a href="/2024/06/22/Community-Program-Ready-Set-and-Shoot.html" rel="noopener">2024-06-22 Community Program: Ready Set and Shoot</a></li>
 	
-	<li><a href="/2024/01/12/Community-Program-Lets-Aim-for-Sunnah.html" rel="noopener">2024-06-22 Community Program: Lets Aim for Sunnah</a></li>
+	<li><a href="/2024/01/12/Community-Program-Lets-Aim-for-Sunnah.html" rel="noopener">2024-01-12 Community Program: Lets Aim for Sunnah</a></li>
 
 	<li><a href="/2023/07/08/Community-Program-Barebow-Archery-Workshop.html" rel="noopener">2023-08-07 Community Program: Barebow Archery Workshop </a></li>
 
